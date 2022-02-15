@@ -26,6 +26,8 @@ ________________________________________________________________________________
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=blue&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Python)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=f&message=fiddler&label=&color=brightgreen&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Fiddler)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=f&message=charles&label=&color=blue&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Charles)
+[![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML&label=&color=orange&labelColor=000000](https://github.com/KatsiarynaSymanovich/CV_HTML)
+
 
 
 
