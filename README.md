@@ -2,7 +2,8 @@
 ____________________________________________________________________________________________________________________________________________________________________
 - 👋 Hi, I’m Katsiaryna Symanovich
 - 🌱 I’m currently learning software testing
-- :mag: I’m looking for a new Job
+- :uk: I study English
+- :mag: I’m looking for a new JOB
 - 💞️ I love cats:) :octocat:
 
 
