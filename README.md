@@ -27,6 +27,9 @@ ________________________________________________________________________________
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=f&message=fiddler&label=&color=brightgreen&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Fiddler)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=f&message=charles&label=&color=blue&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Charles)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML&label=&color=orange&labelColor=000000)](https://github.com/KatsiarynaSymanovich/CV_HTML)
+![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=circleci&message=Devtools&label=&color=blue&labelColor=000000)
+[![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=ADB&label=&color=success&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/MobileTesting)
+
 
 
 
