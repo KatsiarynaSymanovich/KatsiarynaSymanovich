@@ -13,7 +13,7 @@ ________________________________________________________________________________
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=gmail&label=&color=e8203b&labelColor=000000)](mailto:symanovichkatsiaryna@gmail.com)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/Katsiaryna_Symanovich)
 
-:rocket: **Tools**
+:rocket: **Tools and Skills**
 ____________________________________________________________________________________________________________________________________________________________________
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=Postman&label=&color=F05032&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/Postman)
 [![This is an image](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)](https://github.com/KatsiarynaSymanovich/proj1/tree/SQL)
