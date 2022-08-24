@@ -4,7 +4,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning software testing
 - :uk: I study English
 - :mag: I’m looking for a new JOB
-- 💞️ I love cats:) :octocat:
+- 💞 Have a nice day:) :octocat:
 
 
 📫 **How To Reach Me**
